@@ -11,3 +11,9 @@
 
 また、MNIST以外にも自身の画像を使えるコードも追加します。
 
+#### Upload
+2018/12/05 Add AutoEncoder Code that can use own images.
+
+自身の画像でAutoEncoderを実行するコードを追加しました。
+
+
